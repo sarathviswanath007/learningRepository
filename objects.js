@@ -10,3 +10,4 @@ this.isHealthy=isHealthy;
 const favoriteFood = new FavoriteFood("friedrice",false);
 //define the properties of favroite food. How to do it? Using constructors
 //hello //hi
+//hellogit
